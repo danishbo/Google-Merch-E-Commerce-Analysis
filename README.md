@@ -65,8 +65,8 @@ The Google Merchandise Store generated $76K in total sales revenue across 708 co
 - Because every visitor generates an average of $17.82, our **advertising cost per click (CPC) must stay well below $17.82 to remain profitable.**
 
 # Recommendations
-**Merchandising & Product Experience Team - Optimize Top-of-Funnel Conversion**
-* Address the 68.79% drop-off between page views and cart additions by optimizing product display pages with clearer call-to-action buttons, dynamic stock counters, and prominent customer reviews.
+**Merchandising & Product Experience Team - Optimise Top-of-Funnel Conversion**
+* Address the 68.79% drop-off between page views and cart additions by optimising product display pages with clearer call-to-action buttons, dynamic stock counters, and prominent customer reviews.
 * Introduce pre-configured product bundles and threshold-based incentives (such as "Add $15 more for free shipping") to increase Average Order Value above the current $107.40 benchmark.
 
 **Digital Marketing Team - Reallocate Acquisition Budgets**
