@@ -1,6 +1,6 @@
 # Google Merch E-Commerce Analysis
 <p align="center">
-<img width="535" height="299" alt="image" src="https://github.com/user-attachments/assets/1fd35dc7-5f62-46e8-9469-604483f38282" />
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/a703ec94-3e7a-4f48-a2c2-b48ebc3d9225" />
 </p>
 
 # Background and Overview
